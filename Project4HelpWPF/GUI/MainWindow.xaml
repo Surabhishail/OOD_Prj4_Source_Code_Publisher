@@ -1,0 +1,111 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Project #4 Code Publisher" Height="600" Width="525" Padding="20" FontFamily="tahoma" Background="#ccc" Loaded="Window_Loaded">
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////
+    // MainWindow.xaml - GUI for Project4 CodePublisher                  //
+    // ver 1.0                                                           //
+    // Jim Fawcett, CSE687 - Object Oriented Design, Spring 2018         //
+    ///////////////////////////////////////////////////////////////////////
+    -->
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+    <Menu Grid.Row="0">
+      <MenuItem Header="_File">
+        <MenuItem Header="_Browse"/>
+        <MenuItem Header="_Publish"/>
+        <Separator HorizontalAlignment="Stretch"/>
+        <MenuItem Header="_Exit"/>
+      </MenuItem>
+    </Menu>
+
+    <TabControl Name ="tabCtrl" Grid.Row="1">
+      <TabItem Header="Navigation">
+        <Grid>
+          <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+          </Grid.RowDefinitions>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+          </Grid.ColumnDefinitions>
+
+          <!--row 0-->
+          <Label Grid.Row="0" Grid.Column="0" Content="Path:"/>
+          <TextBox Name="txtPath" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True" TextChanged="txtPath_TextChanged"/>
+          <Label Grid.Row="0" Grid.Column="2" Content="Sub-Dirs:"/>
+          <CheckBox Name="cbRecurse" Grid.Row="0" Grid.Column="3" IsChecked="True" Margin="6"/>
+          <Button Name="btnBrowse" Grid.Row="0" Grid.Column="4" Content="Browse" Width="70" Click="btnBrowse_Click"/>
+
+          <!--row 1-->
+          <Separator Grid.Row="1" Grid.ColumnSpan="5"/>
+
+          <!--row 2-->
+          <Label Grid.Row="2" Grid.ColumnSpan="5" Content="Navigation:"/>
+
+          <!--row 3-->
+          <ListBox Name="DirList" Grid.Row="3" Grid.ColumnSpan="5" Margin="5" MouseDoubleClick="DirList_MouseDoubleClick"/>
+
+          <!--row 4-->
+          <Separator Grid.Row="1" Grid.ColumnSpan="5"/>
+
+          <!--row 5-->
+          <Label Grid.Row ="5" Grid.Column="0" Content="Patterns:"/>
+          <TextBox Name="txtPatterns" Grid.Row="5" Grid.Column="1" Margin="5" KeyUp="txtPatterns_KeyUp"/>
+          <Label Grid.Row="5" Grid.Column="2" Content="Regex:"/>
+          <TextBox Name="txtRegex" Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="2" Margin="5"/>
+
+          <!--row 6-->
+          <Separator Grid.Row="1" Grid.ColumnSpan="5"/>
+
+          <!--row 7-->
+          <Button Name="btnPublish" Grid.Row="7" Grid.ColumnSpan="5" Margin="5" Content="Publish" Click="btnPublish_Click" />
+
+        </Grid>
+      </TabItem>
+
+      <TabItem Header="Converted Files">
+        <Grid>
+          <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+          </Grid.RowDefinitions>
+
+          <Label Grid.Row="0" Content="Converted Files:"/>
+          <StackPanel Grid.Row="1">
+            <RadioButton Name ="displayNotepad">
+              Open in Notepad
+            </RadioButton>
+            <RadioButton Name ="displayBrowser" IsChecked="True">
+              Open in Browser
+            </RadioButton>
+          </StackPanel>
+          <ListBox Name="lstConverted" Grid.Row="2" Margin="5" ListBoxItem.MouseDoubleClick ="lstConverted_MouseDoubleClick"/>
+        </Grid>
+      </TabItem>
+    </TabControl>
+
+
+  </Grid>
+
+</Window>

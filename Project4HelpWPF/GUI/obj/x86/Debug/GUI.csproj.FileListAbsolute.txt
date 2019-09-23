@@ -1,0 +1,54 @@
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csprojAssemblyReference.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\App.g.cs
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\bin\x86\Debug\Translater.dll
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\bin\x86\Debug\Translater.pdb
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\MainWindow.baml
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Spring 2019 Study\CSE-687 OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\bin\x86\Debug\Translater.dll
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\bin\x86\Debug\Translater.pdb
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csprojAssemblyReference.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\App.g.cs
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\MainWindow.baml
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Spring 2019 Study\CSE-687 OOD\Project4_OOD\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\bin\x86\Debug\Translater.dll
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\bin\x86\Debug\Translater.pdb
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csprojAssemblyReference.cache
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\App.g.cs
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\MainWindow.baml
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Spring 2019 Study\OOD_Project4\Project4HelpWPF\GUI\obj\x86\Debug\WpfApp1.pdb

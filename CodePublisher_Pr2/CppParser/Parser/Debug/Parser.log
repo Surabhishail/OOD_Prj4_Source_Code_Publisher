@@ -1,0 +1,9 @@
+﻿  AbstrSynTree.cpp
+  GrammarHelpers.cpp
+  Logger.cpp
+  Utilities.cpp
+  ActionsAndRules.cpp
+  ConfigureParser.cpp
+  Parser.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Spring 2019 Study\OOD_Project4\CodePublisher_Pr2\Debug\Parser.lib

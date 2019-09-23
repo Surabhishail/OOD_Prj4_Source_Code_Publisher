@@ -1,0 +1,4 @@
+﻿  Dependencies.cpp
+Dependencies.obj : error LNK2019: unresolved external symbol "public: __thiscall Logging::Logger::~Logger(void)" (??1Logger@Logging@@QAE@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'private: static class Logging::Logger Logging::StaticLogger<2>::_logger''(void)" (??__F?_logger@?$StaticLogger@$01@Logging@@0VLogger@2@A@@YAXXZ)
+Dependencies.obj : error LNK2001: unresolved external symbol "private: static class CodeAnalysis::Repository * CodeAnalysis::Repository::instance" (?instance@Repository@CodeAnalysis@@0PAV12@A)
+D:\Semester 2 Syracuse\OOD\Project 2\CodePublisher_Project2\Debug\Dependencies.exe : fatal error LNK1120: 2 unresolved externals
